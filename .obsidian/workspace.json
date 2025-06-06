@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "3e206741f319235f",
+    "type": "split",
+    "children": [
+      {
+        "id": "846b18fc6c6df880",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe76586882ec4bca",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Embedded-Engineering-Roadmap.png"
+              },
+              "icon": "lucide-image",
+              "title": "Embedded-Engineering-Roadmap"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02ffc2e0de618119",
+    "type": "split",
+    "children": [
+      {
+        "id": "84de50ebceb75830",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1af630a04fbbc0c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "af5faaa7bbf7c378",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "35a237fe070057ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5632beb4294efa45",
+    "type": "split",
+    "children": [
+      {
+        "id": "16380ff564f0f92e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5e2de17b1854edc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Embedded-Engineering-Roadmap.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Embedded-Engineering-Roadmap"
+            }
+          },
+          {
+            "id": "b36ab8256998568f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Embedded-Engineering-Roadmap.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Embedded-Engineering-Roadmap"
+            }
+          },
+          {
+            "id": "737e20903cac1890",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f256636cab7baba4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Embedded-Engineering-Roadmap.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Embedded-Engineering-Roadmap"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "1af630a04fbbc0c9",
+  "lastOpenFiles": [
+    "Embedded-Obisidian",
+    "Welcome.md",
+    "Untitled.canvas",
+    "Software/Programming Fundamentals/Memory Management.md",
+    "Embedded-Engineering-Roadmap1.png.~tmp",
+    "Software/Programming Fundamentals/State Machines.md",
+    "Software/Programming Fundamentals/Design Patterns.md",
+    "Software/Programming Fundamentals/Algorithms and Data Structure.md",
+    "Hardware/Eletronics/Digital Design.md",
+    "Software",
+    "Hardware/Eletronics/Computer Architecture.md",
+    "Hardware/Test Equipment/Osiloscope.md",
+    "Hardware/Test Equipment/Logic Protocol Analyzer.md",
+    "Hardware/Digital Signal Processing.md",
+    "Hardware/Test Equipment/Multimeter.md",
+    "Hardware/HardWare Simulation and Emulation.md",
+    "Hardware/Memory and FileSystems.md",
+    "Hardware/Interfaces and Protocols/Wireless/Zigbee.md",
+    "Hardware/Interfaces and Protocols/Wireless/LoRa.md",
+    "Hardware/Interfaces and Protocols/Wireless/Wi-Fi.md",
+    "Hardware/Interfaces and Protocols/Wireless/Bluetooth.md",
+    "Hardware/Interfaces and Protocols/Industrial/MQTT.md",
+    "Hardware/Interfaces and Protocols/Industrial/ModBus.md",
+    "Hardware/Interfaces and Protocols/High-speed/PCIe.md",
+    "Hardware/Interfaces and Protocols/High-speed/USB.md",
+    "Hardware/Interfaces and Protocols/High-speed/Ethernet.md",
+    "Hardware/Interfaces and Protocols/Celular/GSM LTE.md",
+    "Hardware/Interfaces and Protocols/Automotive/CAN.md",
+    "Hardware/Interfaces and Protocols/Basic/SPI.md",
+    "Hardware/Interfaces and Protocols/Celular",
+    "Hardware/Interfaces and Protocols/Automotive",
+    "Hardware/Interfaces and Protocols/Industrial",
+    "Hardware/Interfaces and Protocols/Wireless",
+    "Hardware/Interfaces and Protocols/High-speed",
+    "Hardware/Interfaces and Protocols/Basic",
+    "Hardware/Prototype Skills",
+    "Hardware/Test Equipment",
+    "Embedded-Engineering-Roadmap1.png",
+    "Embedded-Engineering-Roadmap.png"
+  ]
+}
