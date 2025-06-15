@@ -4,24 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "846b18fc6c6df880",
+        "id": "5142a5d6249009bd",
         "type": "tabs",
         "children": [
           {
-            "id": "fe76586882ec4bca",
+            "id": "27ecd47f0275e713",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Programming Languages/C Language/Variables.md",
+                "file": "Software/Programming Languages/C Language/C Language.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Variables"
+              "title": "C Language"
+            }
+          },
+          {
+            "id": "1955869e7b94ce6f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Embedded-Engineering-Roadmap.png"
+              },
+              "icon": "lucide-image",
+              "title": "Embedded-Engineering-Roadmap"
+            }
+          },
+          {
+            "id": "42569f0a0a8fe7b4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Embedded-Engineering-Roadmap.png"
+              },
+              "icon": "lucide-image",
+              "title": "Embedded-Engineering-Roadmap"
+            }
+          },
+          {
+            "id": "4ae65a4c7cf6aacb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software/Programming Languages/C Language/Operators.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Operators"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -191,16 +230,24 @@
   },
   "active": "5cc9db5eb34e2e15",
   "lastOpenFiles": [
+    "Software/Programming Languages/C Language/Literals and Constants.md",
     "Software/Programming Languages/C Language/Comments.md",
     "Software/Programming Languages/C Language/C Language.md",
-    "Software/Programming Languages/C Language/Variables.md",
-    "Pasted image 20250609014740.png",
-    "Software/Programming Languages/C Language",
-    "Read latter.md",
     "README.md",
-    "Embedded-Engineering-Roadmap.png",
+    "Images/Embedded-Engineering-Roadmap.png",
+    "Images/Pasted image 20250615185450.png",
+    "Images/Embedded-Engineering-Roadmap1.png",
+    "Images",
+    "Images/Pasted image 20250609014740.png",
+    "Read latter.md",
+    "Constant.md",
+    "Software/Programming Languages/C Language/Variables.md",
+    "Software/Programming Languages/C Language/Operators.md",
+    "Images/Pasted image 20250615183248.png",
+    "Images/Pasted image 20250615180704.png",
+    "Images/Pasted image 20250615180306.png",
+    "Software/Programming Languages/C Language",
     "Embedded-Obisidian",
-    "Welcome.md",
     "Untitled.canvas",
     "Software/Programming Fundamentals/Memory Management.md",
     "Embedded-Engineering-Roadmap1.png.~tmp",
@@ -220,15 +267,10 @@
     "Hardware/Interfaces and Protocols/Wireless/LoRa.md",
     "Hardware/Interfaces and Protocols/Wireless/Wi-Fi.md",
     "Hardware/Interfaces and Protocols/Wireless/Bluetooth.md",
-    "Hardware/Interfaces and Protocols/Industrial/MQTT.md",
-    "Hardware/Interfaces and Protocols/Industrial/ModBus.md",
-    "Hardware/Interfaces and Protocols/High-speed/PCIe.md",
     "Hardware/Interfaces and Protocols/Celular",
     "Hardware/Interfaces and Protocols/Automotive",
     "Hardware/Interfaces and Protocols/Industrial",
     "Hardware/Interfaces and Protocols/Wireless",
-    "Hardware/Interfaces and Protocols/High-speed",
-    "Hardware/Interfaces and Protocols/Basic",
-    "Embedded-Engineering-Roadmap1.png"
+    "Hardware/Interfaces and Protocols/High-speed"
   ]
 }
