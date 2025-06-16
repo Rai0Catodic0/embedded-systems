@@ -1,10 +1,10 @@
-#Required #SyntaxAndStructureofC 
+#Required #SyntaxAndStructureofC #software 
 Comments are mainly used to document code, there are two types of comments: block and single line comments
 
 # Block comments
 
-Block comments are used to describe what the code file does or the top a [[function]] to explain the 
-[[function]] behavior
+Block comments are used to describe what the code file does or the top a [[Functions]] to explain the 
+function behavior
 ```
 /*
 * this is a block comment.

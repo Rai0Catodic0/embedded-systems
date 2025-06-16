@@ -1,4 +1,4 @@
-#Required #SyntaxAndStructureofC 
+#Required #SyntaxAndStructureofC #software 
 Variables are used to store data that can be accessed and modified, a variable must have a type and a name. 
 
 # types
@@ -43,7 +43,7 @@ the typedef can be used more comprehensible data type names .
 
 # Header Files
 
-for large and complex code we should use header files to store declarations of [[function]] s and variable. header files use .h extension and should be included in the .C file whew you define the information declared in the header file.  there are two ways of including your header files
+for large and complex code we should use header files to store declarations of [[Functions]]  and variable. header files use .h extension and should be included in the .C file whew you define the information declared in the header file.  there are two ways of including your header files
 
 ## ""
 
