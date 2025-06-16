@@ -6,8 +6,9 @@ Embedded Systems Road Map
 ```dataview
 LIST WITHOUT ID link(file.link, file.name) + " - " + file.path
 FROM #Required 
-WHERE file.path AND (file.size < 100 OR file.size = null) 
+WHERE file.path AND (file.size < 150 OR file.size = null) 
 ```
+
 
 
 

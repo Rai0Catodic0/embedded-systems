@@ -1,3 +1,4 @@
+#Required #software #SyntaxAndStructureofC 
 Functions are pieces of code that receives parameters and returns a value.
 Functions are defined like this :
 ```
