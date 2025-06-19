@@ -13,36 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Development Tools/QEMU.md",
+                "file": "Software/Programming Languages/C Language/State Machines in Embedded C.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "QEMU"
-            }
-          },
-          {
-            "id": "1955869e7b94ce6f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Embedded-Engineering-Roadmap.png"
-              },
-              "icon": "lucide-image",
-              "title": "Embedded-Engineering-Roadmap"
-            }
-          },
-          {
-            "id": "42569f0a0a8fe7b4",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Embedded-Engineering-Roadmap.png"
-              },
-              "icon": "lucide-image",
-              "title": "Embedded-Engineering-Roadmap"
+              "title": "State Machines in Embedded C"
             }
           }
         ]
@@ -102,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "5632beb4294efa45",
@@ -166,23 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embedded-Engineering-Roadmap.png",
+                "file": "Software/Programming Fundamentals/State Machines.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Embedded-Engineering-Roadmap"
-            }
-          },
-          {
-            "id": "5cc9db5eb34e2e15",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of State Machines"
             }
           },
           {
@@ -196,11 +162,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,42 +182,44 @@
   },
   "active": "27ecd47f0275e713",
   "lastOpenFiles": [
-    "Software/Operating Systems/Operating Systems Fundamentals.md",
+    "Pasted image 20250618230709.png",
+    "Pasted image 20250618230530.png",
+    "Pasted image 20250618230445.png",
+    "Pasted image 20250618230426.png",
+    "Pasted image 20250618230401.png",
+    "Software/Programming Languages/C Language/Functions.md",
+    "Pasted image 20250618230314.png",
+    "Software/Programming Languages/C Language/State Machines in Embedded C.md",
+    "Pasted image 20250618225758.png",
+    "Software/Programming Languages/C Language/C Language.md",
+    "Software/Programming Languages/C Language/Advanced Data Structures Pointers.md",
+    "Software/Programming Languages/C Language/Arrays.md",
+    "Software/Operating Systems/Embedded Linux/Embedded Linux.md",
+    "().md",
+    "Software/Operating Systems/Embedded Linux/Device Drivers.md",
+    "Software/Operating Systems/Embedded Linux/Linux kernel.md",
+    "Software/Operating Systems/Linux Kernel/Linux Device Drivers.md",
+    "Software/Operating Systems/Linux Kernel/Linux Kernel.md",
+    "Software/Programming Languages/C Language/Data Structures Pointers.md",
+    "Software/Operating Systems/Linux Kernel",
+    "Software/Programming Fundamentals/State Machines.md",
+    "Images/Embedded-Engineering-Roadmap.png",
     "Software/Development Tools/QEMU.md",
+    "Software/Operating Systems/Operating Systems Fundamentals.md",
     "Software/Operating Systems/Real-Time OS/RTOS Basics.md",
     "Software/Operating Systems/Real-Time OS/FreeRTOS.md",
     "Software/Operating Systems/Real-Time OS/Zephyr.md",
     "Software/Development Tools/Building Systems/Make CMake.md",
-    "().md",
-    "Software/Programming Languages/C Language/Data Structures Pointers.md",
-    "Software/Programming Languages/C Language/Functions.md",
-    "Software/Programming Languages/C Language/C Language.md",
     "README.md",
     "Software/Programming Languages/C Language/Data Structures.md",
     "Pasted image 20250616175954.png",
     "Software/Programming Languages/C Language/Code Portability and Double Pointers.md",
-    "Software/Programming Languages/C Language/State Machines in Embedded C.md",
-    "Software/Programming Languages/C Language/Advanced Data Structures Pointers.md",
     "Software/Programming Languages/C Language/Pointers.md",
     "Pasted image 20250616161841.png",
-    "Software/Programming Languages/C Language/Arrays.md",
     "function.md",
     "Software/Programming Languages/C Language/Comments.md",
-    "Software/Programming Languages/C Language/Variables.md",
-    "Images/Embedded-Engineering-Roadmap.png",
-    "Software/Programming Languages/C Language/Variables 2.md",
-    "Software/Programming Languages/C Language/Operators.md",
-    "Software/Programming Languages/C Language/Loops.md",
-    "Software/Programming Languages/C Language/Decisions.md",
-    "Software/Development Tools/Building Systems/Docker.md",
-    "Software/Development Tools/Building Systems/Compilers GCC.md",
     "Images/Pasted image 20250615185450.png",
-    "Images/Embedded-Engineering-Roadmap1.png",
     "Images",
-    "Images/Pasted image 20250609014740.png",
-    "Images/Pasted image 20250615183248.png",
-    "Images/Pasted image 20250615180704.png",
-    "Images/Pasted image 20250615180306.png",
     "Software/Programming Languages/C Language",
     "Embedded-Obisidian",
     "Untitled.canvas",
@@ -259,7 +228,6 @@
     "Hardware/Interfaces and Protocols/Celular",
     "Hardware/Interfaces and Protocols/Automotive",
     "Hardware/Interfaces and Protocols/Industrial",
-    "Hardware/Interfaces and Protocols/Wireless",
-    "Hardware/Interfaces and Protocols/High-speed"
+    "Hardware/Interfaces and Protocols/Wireless"
   ]
 }
