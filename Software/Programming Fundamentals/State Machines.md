@@ -1,4 +1,4 @@
-#Required 
+#Required #AdvancedC #software 
 # [📝 Programming embedded systems the easy way – with state machines](https://www.embedded.com/programming-embedded-systems-the-easy-way-with-state-machines/)
 
 

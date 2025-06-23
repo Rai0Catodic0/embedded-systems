@@ -5,7 +5,7 @@
 ### Implicit type conversion
 
 When performing an operation between two different types, it will promote one of the operators to match the  largest operator type. for instance:
-```
+```C
 float y = 2;
 int x = 5;
 float anwser;
@@ -23,8 +23,8 @@ Assignment operator is the = used to assignment values to variables. but it can 
 
 ## Simple Trick For Relational Operators
 
-to avoid confusion between the relational and assignment operators place the literal on the left side of the operator:
-```
+To avoid confusion between the relational and assignment operators place the literal on the left side of the operator:
+```C
 if ( x = 10){ // will yield false only if x == 0
 	// code
 }
@@ -40,8 +40,8 @@ if (10 == x){ // will yield the expected behavior
 ## Logical Operators 
 
 ### and 
-the '&&' is the C operator for the and logical operator 
-```
+The '&&' is the C operator for the and logical operator 
+```C
 if (x && y){ // will yield true when both x and y are true
 	// code
 }
@@ -64,9 +64,9 @@ the not operator is expressed with "!" character
 
 ## Bitwise Operator
 
-### bitwise and  &
-for x and y, performs an and operation between each of the correspondent bit of each operands
-```
+### bitwise and &
+For x and y, performs an and operation between each of the correspondent bit of each operands
+```C
 char x = 0b00001011;
 char y = 0b00000101;
 char awnser;
@@ -76,8 +76,8 @@ void main (void){
 }
 ```
 ### bitwise or | 
-for x and y, performs an or operation between each of the correspondent bit of each operands
-```
+For x and y, performs an or operation between each of the correspondent bit of each operands
+```C
 char x = 0b00001011;
 char y = 0b00000101;
 char awnser;
@@ -87,8 +87,8 @@ void main (void){
 }
 ```
 ### bitwise xor ^ 
-for x and y, performs a xor operation between each of the correspondent bit of each operands
-```
+For x and y, performs an xor operation between each of the correspondent bit of each operands
+```C
 char x = 0b00001011;
 char y = 0b00000101;
 char awnser;
@@ -98,8 +98,8 @@ void main (void){
 }
 ```
 ### bitwise not ~
-for x , performs a not operation for each of the correspondent bit of the operand 
-```
+For x, performs a not operation for each of the correspondent bit of the operand 
+```C
 char x = 0b00001011;
 char y = 0b00000101;
 char awnser;
@@ -111,7 +111,7 @@ void main (void){
 
 
 ### masking 
-masking is used to discover a status of one or more bits from a variable by comparing a know bit combination with the value:
+Masking is used to discover a status of one or more bits from a variable by comparing a know bit combination with the value:
 
 example:
 ![[Pasted image 20250615183248.png]]
@@ -120,8 +120,8 @@ example:
 left shift multiple a value by 2
 right shift divide a value by 2.
 ### Left shift << 
-shifts the bits of x, to the left n times (ie. n = 1)
-```
+Shifts the bits of x, to the left n times (i.e. n = 1)
+```C
 char x = 0b00000101; // 5
 char y;
 
@@ -132,9 +132,9 @@ void main (void){
 
 
 ### Right shift >>
-shifts the bits of x, to the right n times (ie. n = 1), for this operators we have a Sign Extension
+Shifts the bits of x, to the right n times (i.e. n = 1), for this operators we have a Sign Extension
 if you right shift and the value is negative we put a 1 in the new location instead of a 0
-```
+```C
 char x = 0b00000101; // 5
 char y = 0b11111010;
 
@@ -144,8 +144,8 @@ void main (void){
 }
 ```
 ## Cast Operator
-when you use a cast operator you can temporarily cast a value to another type by:
-```
+When you use a cast operator you can temporarily cast a value to another type by:
+```C
 int a = 10;
 int b = 4;
 float c;
